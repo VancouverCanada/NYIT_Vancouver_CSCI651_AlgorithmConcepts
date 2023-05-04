@@ -1,13 +1,13 @@
 
-##Overview
+# Overview
 
-DESCRIPTION
+**DESCRIPTION**
+
 In this week, we will first introduce the course outline and requirements. We then review Math and Data Structures.
 
  
  
-WHAT YOU WILL LEARN
-LEARNING OUTCOMES
+WHAT YOU WILL LEARN and LEARNING OUTCOMES
 After completing this module, we will be able to:
 
 Understand the topics to be covered.
