@@ -9,7 +9,7 @@ In addition to design methods, the course also emphasizes the importance of unde
 
 The course also covers NP-Hard and NP-Complete classes, which are important concepts in computational complexity theory. By understanding these classes, students will gain a deeper understanding of the computational complexity of problems and be better equipped to design and analyze algorithms for solving them.
 
-Throughout the course, students will be challenged to apply what they've learned to solve real-world problems. By the end of the course, students will have a solid foundation in algorithm design and analysis that can be applied to a wide range of problems. They will be able to design and analyze new algorithms for themselves, and will be prepared to continue their studies in related areas of computer science.
+Throughout the course, students will be challenged to apply what they've learned to solve real-world problems. By the end of the course, students will have a solid foundation in algorithm design and analysis that can be applied to a wide range of problems. They will be able to design and analyze new algorithms for themselves, and will be prepared to continue their works or studies in related areas of computer science.
 
 **Tips for students taking NYIT Vancouver CSCI651 Algorithm Concepts:**
 
